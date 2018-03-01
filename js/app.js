@@ -60,6 +60,10 @@ document.body.onload = displayCards;
 */
 let replayGame= document.querySelector('.restart');
 replayGame.onclick = displayCards;
+
+
+
+
 /**
 * @description: Shuffle function from http://stackoverflow.com/a/2450976
 * @param: Name: array, type: array

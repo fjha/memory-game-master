@@ -27,7 +27,7 @@ Original game code obtained from https://github.com/udacity/fend-project-memory-
 
 ## Installations
 The  files can be downloaded or cloned from
-https://github.com/fjha/
+https://github.com/fjha/memory-game-master
 Check for the following:
 1. index.html
 2. css folder
