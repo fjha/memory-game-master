@@ -9,9 +9,6 @@
 ## Game goals
 Match two similar cards in less time with less moves.
 
-## Background Music
-Listen  to background music when playing 
-
 ## Play Instructions
 Load the game and its index file on browser .
 * Click on a card
